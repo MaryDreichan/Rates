@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 
 import Rate300 from "./assets/components/Rate300";
 import Rate450 from "./assets/components/Rate450";
