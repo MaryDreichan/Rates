@@ -4,11 +4,11 @@
   }
   
   .unlimited {
-    color: blue;
+    color: rgb(194, 150, 151);
   }
   
   .price {
-    color: green;
+    color: rgb(177, 80, 92);
   }
 
   .speed {
@@ -17,4 +17,8 @@
   
   .traffic {
     color: rgb(223, 217, 205); 
+  }
+  
+  .highlighted {
+    border: 2px solid rgb(93, 93, 186);
   }
