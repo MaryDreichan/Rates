@@ -1,0 +1,20 @@
+.rateContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .unlimited {
+    color: blue;
+  }
+  
+  .price {
+    color: green;
+  }
+
+  .speed {
+    color: rgb(148, 132, 132); 
+  }
+  
+  .traffic {
+    color: rgb(223, 217, 205); 
+  }
