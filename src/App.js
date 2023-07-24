@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.scss';
 
-import Rate300 from "./assets/components/Rate300";
-import Rate450 from "./assets/components/Rate450";
-import Rate550 from "./assets/components/Rate550";
-import Rate1000 from "./assets/components/Rate1000";
+import Rate300 from "./assets/components/Rate300/rate";
+import Rate450 from "./assets/components/Rate450/rate";
+import Rate550 from "./assets/components/Rate550/rate";
+import Rate1000 from "./assets/components/Rate1000/rate";
 
 class App extends React.Component {
   render() {
